@@ -60,7 +60,7 @@ nav{
     box-shadow:3px 3px 4px 4px black;
     padding: 1em;
 }
-div{
+div.contact{
     margin:1.5em 2em 0em;
     border:5px double black;
     border-radius:20px;
