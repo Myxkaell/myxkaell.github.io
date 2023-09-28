@@ -1,0 +1,50 @@
+html{
+    background-image: linear-gradient(to left,white 0%, rgb(50, 50, 50) 100%);
+}
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:100%;
+    margin:15px auto;
+    padding:15px 1.5em;
+    width:90%;
+    background-color:white;
+    border:1px solid black;
+    border-radius:25px;
+    box-shadow:5px 5px 0 0
+
+}
+a:focus, a:hover{
+    font-style:bold;
+    color: mediumslateblue;
+    border: 3px mediumslateblue;
+    border-style: dotted solid;
+}
+header{
+    margin-left:2em;
+}
+header h1{
+    font-size:175%;
+    color:maroon;
+    text-indent:30px;
+}
+header h2{
+    font-size:130%;
+    color: #288;
+    text-indent:30px;
+}
+header img{
+    float:left;
+}
+.shadow{
+    text-shadow:2px 2px 2px rgb(20,120,120);
+}
+article{
+    clear:both;
+    width:70%;
+    float:left;
+    column-count: 2;
+    column-rule: 2px dotted black;
+    column-gap: 2em;
+    margin-left: 2em;
+}
