@@ -64,5 +64,5 @@ article p::first-letter{
 aside{
     width:20%;
     float:right;
-    background-color: gray;
+    background-color: lightgray;
 }
