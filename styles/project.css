@@ -67,3 +67,19 @@ aside{
     background-color: lightgray;
     padding:0.1em 1em 1.5em
 }
+footer{
+    clear:both;
+    border-top: 2px solid black;
+}
+footer p.copyright{
+    text-align: center;
+    font-size: 80%;
+}
+p.fixed{
+    width:auto;
+    position: fixed;
+    bottom: 35%;
+    right:0;
+    border: 3px solid black;
+    background-color:lightgray
+}
