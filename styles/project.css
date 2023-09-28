@@ -22,6 +22,7 @@ a:focus, a:hover{
 }
 header{
     margin-left:2em;
+    border-bottom: 2px solid black;
 }
 header h1{
     font-size:175%;
@@ -47,7 +48,6 @@ article{
     column-rule: 2px dotted black;
     column-gap: 2em;
     margin-left:2em;
-    border-top:2px solid black;
 }
 article h3{
     column-span: all;
@@ -55,7 +55,6 @@ article h3{
 article img{
     float: left;
     margin-right:1em;
-    margin-bottom:1em;
 }
 article p::first-letter{
     font-style: italic;
