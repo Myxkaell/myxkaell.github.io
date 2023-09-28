@@ -46,7 +46,8 @@ article{
     column-count: 2;
     column-rule: 2px dotted black;
     column-gap: 2em;
-    margin:2em,0,2em,0;
+    margin-left:2em;
+    border-top:2px solid black;
 }
 article h3{
     column-span: all;
