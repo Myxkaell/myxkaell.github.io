@@ -1,0 +1,24 @@
+nav{
+    padding: 1em 4em;
+    background-color:blue;
+}
+nav li:hover{
+    color:yellow;
+}
+nav li:focus{
+    color:yellow;
+}
+
+body div{
+    font-size: 2.5em;
+    font-weight:bold;
+    margin: 1em;
+}
+
+aside ol{
+    list-style-type: upper-roman;
+}
+
+aside ul{
+    list-style-type: square;
+}
