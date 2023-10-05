@@ -5,10 +5,10 @@
     color:white;
     text-decoration: none;
 }
-nav li:hover{
+#nav_menu li:hover{
     color:yellow;
 }
-nav li:focus{
+#nav_menu li:focus{
     color:yellow;
 }
 
