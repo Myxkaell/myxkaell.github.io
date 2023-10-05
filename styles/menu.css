@@ -3,6 +3,7 @@ nav ul{
     padding: 1em 3em;
     background-color: blue;
     color:white;
+    text-decoration: none;
 }
 nav li:hover{
     color:yellow;
