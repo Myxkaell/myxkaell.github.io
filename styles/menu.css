@@ -2,6 +2,7 @@ body{
     margin-left: 5em
 }
 #nav_menu ul{
+    list-style-type: none;
     display: inline;
     padding: 1em 3em;
     background-color: blue;
