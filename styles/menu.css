@@ -10,6 +10,7 @@ body{
 }
 #nav_menu li{
     display: inline;
+    color: white;
 }
 #nav_menu li:hover{
     color:yellow;
