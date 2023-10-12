@@ -9,7 +9,7 @@ body{
     display: inline;
     padding: 1em 3em;
     background-color: blue;
-    border-right: 2px white;
+    border-right: 1px white;
 }
 #nav_menu li a{
     color: white;
