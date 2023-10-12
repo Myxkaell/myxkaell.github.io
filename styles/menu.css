@@ -3,7 +3,7 @@ body{
 }
 #nav_menu ul{
     list-style-type: none;
-    margin: 2em, 0em;
+    margin-bottom: 4em;
 }
 #nav_menu li{
     display: inline;
