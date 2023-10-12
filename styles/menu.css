@@ -4,7 +4,7 @@ body{
 #nav_menu ul{
     list-style-type: none;
 }
-#nav_menu li{
+#nav_menu li a{
     display: inline;
     color: white;
     padding: 1em 3em;
@@ -13,10 +13,10 @@ body{
     font-weight: bold;
     border-right: 2px white;
 }
-#nav_menu li:hover{
+#nav_menu li a:hover{
     color:yellow;
 }
-#nav_menu li:focus{
+#nav_menu li a:focus{
     color:yellow;
 }
 
