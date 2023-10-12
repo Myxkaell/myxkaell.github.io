@@ -4,6 +4,8 @@ body{
 #nav_menu ul{
     list-style-type: none;
     margin-bottom: 3em;
+    position: relative;
+    left: 100px;
 }
 #nav_menu li{
     display: inline;
