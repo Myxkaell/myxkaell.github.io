@@ -4,14 +4,16 @@ body{
 #nav_menu ul{
     list-style-type: none;
 }
-#nav_menu li a{
+#nav_menu li{
     display: inline;
-    color: white;
     padding: 1em 3em;
     background-color: blue;
+    border-right: 2px white;
+}
+#nav_menu li a{
+    color: white;
     text-decoration: none;
     font-weight: bold;
-    border-right: 2px white;
 }
 #nav_menu li a:hover{
     color:yellow;
