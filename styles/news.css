@@ -42,14 +42,14 @@ aside ul{
 #nav_menu ul{
     column-span: all;
     list-style-type: none;
-    margin-bottom: 3em;
+    margin-bottom: 2em;
     position: relative;
-    padding-bottom: 1em;
+    padding-bottom: 2em;
     border-bottom: 2px solid blue;
 }
 #nav_menu li{
     display: inline;
-    padding: 1em 3em;
+    padding: 2em 3em;
     background-color: blue;
     border-right: 1px white;
 }
