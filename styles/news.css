@@ -3,12 +3,12 @@ html{
 }
 body{
     width:95%;
-    padding:30px auto;
-    margin:15px auto;
+    padding:1em auto;
+    margin:4em auto;
     column-count: 3;
-    column-gap: 2em;
+    column-gap: 1em;
     column-rule: dotted 2px blue;
-    column-width: 25%;
+    column-width: 15%;
     background-color:white;
     border:1px solid black;
     border-radius:25px;
