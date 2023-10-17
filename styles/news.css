@@ -18,6 +18,9 @@ article{
     column-rule: dotted 2px blue;
     column-width: 15%;
 }
+h1{
+    column-span: all;
+}
 img{
     float:left;
     margin-right: 1em;
