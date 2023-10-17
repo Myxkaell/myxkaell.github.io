@@ -3,7 +3,7 @@ html{
 }
 body{
     width:95%;
-    padding: 15px auto;
+    padding:30px auto;
     margin:15px auto;
     column-count: 3;
     column-gap: 2em;
@@ -16,6 +16,7 @@ body{
 }
 article{
     width:75%;
+    float:left;
 }
 img{
     float:left;
