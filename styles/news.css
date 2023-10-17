@@ -49,8 +49,7 @@ aside ul{
 #nav_menu ul{
     column-span: all;
     list-style-type: none;
-    margin-bottom: 2em;
-    margin-left: 2em;
+    margin: 2em;
     position: relative;
     padding-bottom: 2em;
     border-bottom: 2px solid blue;
