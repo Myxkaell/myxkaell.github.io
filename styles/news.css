@@ -3,8 +3,7 @@ html{
 }
 body{
     width:95%;
-    padding:1em auto;
-    margin:4em auto;
+    margin:2em auto;
     background-color:white;
     border:1px solid black;
     border-radius:25px;
@@ -13,6 +12,7 @@ body{
 article{
     width:75%;
     float:left;
+    margin-left: 15px;
     column-count: 3;
     column-gap: 1em;
     column-rule: dotted 2px blue;
