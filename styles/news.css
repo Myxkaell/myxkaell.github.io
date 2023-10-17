@@ -10,6 +10,7 @@ article{
 }
 img{
     float:right;
+    margin-left: 15px;
 }
 h2 p::first-letter{
     font-size: 2em;
@@ -34,9 +35,12 @@ aside ul{
     list-style-type: square;
 }
 #nav_menu ul{
+    column-span: all;
     list-style-type: none;
     margin-bottom: 3em;
     position: relative;
+    padding-bottom: 1em;
+    border-bottom: 2px blue;
 }
 #nav_menu li{
     display: inline;
