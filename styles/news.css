@@ -12,7 +12,7 @@ body{
 article{
     width:75%;
     float:left;
-    margin-left: 15px;
+    margin: 3em;
     column-count: 3;
     column-gap: 1em;
     column-rule: dotted 2px blue;
