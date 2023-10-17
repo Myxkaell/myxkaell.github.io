@@ -9,7 +9,7 @@ article{
     width:75%;
 }
 img{
-    float:right;
+    float:left;
     margin-left: 15px;
 }
 h2 p::first-letter{
@@ -21,7 +21,7 @@ aside{
     clear: both;
     width:20%;
     position: fixed;
-    right: 0;
+    right: 0%;
     bottom: 50%;
     margin:2em 5em 2em 2em;
     background-color: rgb(138, 183, 212);
