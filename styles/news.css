@@ -4,13 +4,14 @@ body{
     column-count: 3;
     column-gap: 2em;
     column-rule: dotted 2px blue;
+    column-width: 25%;
 }
 article{
     width:75%;
 }
 img{
     float:left;
-    margin-left: 15px;
+    margin-right: 1em;
 }
 h2 p::first-letter{
     font-size: 2em;
@@ -25,8 +26,7 @@ aside{
     bottom: 50%;
     padding:2em 5em 2em 2em;
     background-color: rgb(138, 183, 212);
-    border:2px;
-    border-color: rgb(59, 64, 106);
+    border:2px solid rgb(59, 64, 106);
 }
 aside ol{
     list-style-type: upper-roman;
@@ -40,7 +40,7 @@ aside ul{
     margin-bottom: 3em;
     position: relative;
     padding-bottom: 1em;
-    border-bottom: 2px blue;
+    border-bottom: 2px solid blue;
 }
 #nav_menu li{
     display: inline;
@@ -60,6 +60,6 @@ aside ul{
     color:yellow;
 }
 footer{
-    border-top: 2px blue;
+    border-top: 2px solid blue;
     text-align: center;
 }
