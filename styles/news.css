@@ -5,6 +5,10 @@ body{
     column-gap: 2em;
     column-rule: dotted 2px blue;
     column-width: 25%;
+    background-color:white;
+    border:1px solid black;
+    border-radius:25px;
+    box-shadow:5px 5px 0 0
 }
 article{
     width:75%;
