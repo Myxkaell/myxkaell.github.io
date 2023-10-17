@@ -69,7 +69,7 @@ aside ul{
     color:yellow;
 }
 footer{
-    column-span: all;
+    clear: both;
     border-top: 2px solid blue;
     text-align: center;
 }
