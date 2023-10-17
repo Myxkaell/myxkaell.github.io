@@ -3,7 +3,7 @@ html{
 }
 body{
     width:95%;
-    margin:3em auto;
+    padding:3em auto;
     background-color:white;
     border:1px solid black;
     border-radius:25px;
