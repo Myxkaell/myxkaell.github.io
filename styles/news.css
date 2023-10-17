@@ -1,3 +1,6 @@
+html{
+    background-color:rgb(138, 183, 212);
+}
 body{
     width:95%;
     padding: 15px auto;
@@ -7,9 +10,9 @@ body{
     column-rule: dotted 2px blue;
     column-width: 25%;
     background-color:white;
-    border:1px solid rgb(138, 183, 212);
+    border:1px solid black;
     border-radius:25px;
-    box-shadow:5px 5px 0 0
+    box-shadow:5px 5px 0 0;
 }
 article{
     width:75%;
@@ -49,7 +52,7 @@ aside ul{
 }
 #nav_menu li{
     display: inline;
-    padding: 2em 3em;
+    padding: 1em 3em;
     background-color: blue;
     border-right: 1px white;
 }
