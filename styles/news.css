@@ -36,7 +36,7 @@ aside{
     position: fixed;
     right: 0%;
     bottom: 50%;
-    padding:2em 5em 2em 2em;
+    padding:1.25em 4em 1.25em 1em;
     background-color: rgb(138, 183, 212);
     border:2px solid rgb(59, 64, 106);
 }
