@@ -2,13 +2,13 @@ header{
     height: 3em;
     width: 100%;
     background-image:linear-gradient(to right,rgb(255, 196, 0) 0%,rgb(255, 88, 28));
+    color:white;
 }
 #nav_menu{
     list-style-type: none;
-    float:right
+    float:right;
 }
 #nav_menu li{
     display: inline;
     float: right;
-    color: white
 }
