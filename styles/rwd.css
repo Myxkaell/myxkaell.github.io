@@ -1,0 +1,5 @@
+#nav_menu{
+    height: 3em;
+    width: 100%;
+    background-image:linear-gradient(to right,rgb(255, 196, 0) 0%,rgb(255, 88, 28));
+}
