@@ -50,3 +50,7 @@ table.third tbody{
 table.third tbody tr:first-child{
     text-align: left;
 }
+table.third tbody tr td, table.third thead tr th{
+    padding: .5em;
+    vertical-align: center;
+}
