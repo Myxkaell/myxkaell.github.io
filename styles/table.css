@@ -37,15 +37,15 @@ table.second thead tr:first-child{
 /*--------------------------------------------*/
 table.third{
     border-collapse: collapse;
-    border: 0px solid red
+    border: none;
 }
 table.third thead tr{
     background-color: lightgreen;
-    border-top: 2px solid red;
-    border-bottom: 2px solid red;
+    border-top: 2px solid orangered;
+    border-bottom: 2px solid orangered;
 }
 table.third tbody{
-    border-bottom: 2px solid red;
+    border-bottom: 2px solid orangered;
 }
 table.third tbody tr:first-child{
     text-align: left;
@@ -53,4 +53,13 @@ table.third tbody tr:first-child{
 table.third tbody tr td, table.third thead tr th{
     padding: .5em;
     vertical-align: center;
+}
+@media only screen and (max-width: 425px) {
+    th, td {
+        display: block;
+    }
+    thead, td.number {
+        display: none;
+        padding: 0;
+    }    
 }
