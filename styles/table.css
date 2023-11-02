@@ -42,10 +42,10 @@ table.third{
 table.third thead tr{
     background-color: lightgreen;
     border-top: 2px solid orangered;
-    border-bottom: 2px solid orangered;
 }
 table.third tbody{
     border-bottom: 2px solid orangered;
+    border-top: 2px solid orangered;
 }
 table.third tbody tr:first-child{
     text-align: left;
